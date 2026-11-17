@@ -118,13 +118,19 @@ An AI-driven news analysis platform that helps users understand news through int
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2" width="100%" alt="Sky Blue Divider" />
 
 
-## GitHub Activity
+
+
+
+## 📊 GitHub Activity
+
+
+
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnanyaSingh2305&show_icons=true&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnanyaSingh2305&theme=github_dark" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaSingh2305&layout=compact&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnanyaSingh2305&theme=github_dark" alt="Top Languages" />
 
 </div>
 
