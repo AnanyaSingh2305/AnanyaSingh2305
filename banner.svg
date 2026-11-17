@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Ananya Singh — Software Engineer, AI/ML Enthusiast, Full-Stack Developer">
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#676d9b"/><stop offset="0.52" stop-color="#778ec1"/><stop offset="1" stop-color="#55c5ec"/></linearGradient>
+  <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#c5b9f8"/><stop offset="1" stop-color="#a3e6fa"/></linearGradient>
+  <clipPath id="frame"><rect width="1200" height="340"/></clipPath>
+ </defs>
+ <g clip-path="url(#frame)">
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <g opacity=".5" fill="#b4c8f5">
+   <path d="M-120 270 Q140 220 420 260 T960 258 T1500 260 V370 H-120 Z">
+    <animateTransform attributeName="transform" type="translate" values="-35 0;35 0;-35 0" dur="8s" repeatCount="indefinite"/>
+   </path>
+  </g>
+  <g opacity=".88" fill="url(#wave)">
+   <path d="M-200 290 Q100 245 400 290 T1000 290 T1600 290 V380 H-200 Z">
+    <animateTransform attributeName="transform" type="translate" values="35 0;-35 0;35 0" dur="6s" repeatCount="indefinite"/>
+   </path>
+  </g>
+  <path fill="#e7e6ff" opacity=".72" d="M-150 315 Q150 277 450 315 T1050 315 T1650 315 V380 H-150 Z">
+   <animateTransform attributeName="transform" type="translate" values="-24 0;24 0;-24 0" dur="10s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="148" fill="#fff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800">Ananya Singh</text>
+  <text x="600" y="199" fill="#fff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700">Software Engineer | AI/ML Enthusiast | Full-Stack Developer</text>
+ </g>
+</svg>
