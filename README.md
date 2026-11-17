@@ -5,16 +5,27 @@
 
 <img src="banner.svg" alt="Ananya Singh - Software Engineer" width="100%" />
 
+<div align="center">
+
+<a href="https://github.com/AnanyaSingh2305">
+  <img src="https://img.shields.io/badge/GitHub-AnanyaSingh2305-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/ananya-singh-8934b4294/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:ananyasingh5900@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
 
 <br>
 
-<p><b>Building practical applications across AI, data, and web development.</b></p>
+<p><b>Transforming ideas into code, intelligence into innovation, and challenges into solutions.</b></p>
 
-<a href="https://github.com/AnanyaSingh2305">
-  <img src="https://img.shields.io/badge/GitHub-AnanyaSingh2305-181717?style=flat-square&logo=github" alt="GitHub" />
-</a>
-
-<img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Internships-2563EB?style=flat-square" alt="Open to Software Engineering Internships" />
 
 </div>
 
