@@ -31,7 +31,7 @@
 
 
 
-## About Me
+## 👩‍💻 About Me
 
 I'm an Information Science Engineering student interested in software engineering, artificial intelligence, and building useful applications. My projects span natural language processing, data-driven tools, and modern web development.
 
@@ -41,50 +41,64 @@ I'm an Information Science Engineering student interested in software engineerin
 - 🌱 Continuing to strengthen my problem-solving, programming, and software engineering skills
 - 🤝 Interested in **software engineering internships and entry-level opportunities**
 
-## Tech Stack
+## ⚙️ Tech Stack
 
-**Languages and core technologies**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks and tools used in projects**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<div align="center">
 
-## Featured Projects
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,flask,mongodb,git,github,vscode,vercel,fastapi,tailwind,nodejs,express,docker&theme=dark&perline=9" alt="Tech Stack" />
 
-### 🌾 Krishi AI — AI-Powered Agricultural Assistance Application
+<br><br>
 
-**Award-Winning Major Project | Artificial Intelligence • Agriculture**
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini%20Embeddings-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
-Krishi AI is an AI-focused agricultural assistance application developed to explore how technology can make agricultural information and support more accessible to farmers.
+</div>
 
-- Developed as an Information Science Engineering major project focused on real-world agricultural challenges.
-- Explores the use of AI to support access to agricultural information.
-- Demonstrates application development, AI integration, and practical problem-solving.
-- 🏆 **Recognition:** ISE Department Major Project Award.
+## 💡 Featured Projects
 
-*Repository link and additional implementation details can be added when available for public sharing.*
+---
 
-### 📰 [NewsScopeAI — AI-Powered News Analysis Platform](https://github.com/AnanyaSingh2305/NewsScopeAi)
+### 🌾 Krishi AI
 
-**Python • Flask • Natural Language Processing (NLP)**
+**AI-Powered Agriculture Platform**
 
-NewsScopeAI is an AI-powered news analysis application designed to simplify news consumption through natural language processing and content analysis.
+An intelligent agriculture platform designed to help farmers detect crop diseases, connect with experts, and access agricultural services through a multilingual, mobile-friendly application.
 
-- Uses NLP-based summarization to produce concise summaries of news content.
-- Supports classification of news articles into relevant categories.
-- Explores multilingual news processing to make content more accessible.
-- Integrates NLP functionality into a Python and Flask web application.
+- AI-powered crop disease detection using **MobileNetV2**, classifying plant images across **15 disease categories**
+- Achieved **over 90% accuracy** with disease diagnosis in under **3 seconds**
+- Real-time farmer-to-expert consultation using **Firebase Firestore**
+- Secure authentication with phone OTP and one-click guest login
+- Offline-first **Progressive Web App (PWA)** with a **98/100 Lighthouse performance score**
+- Multilingual support in **English, Hindi, and Kannada**
+- Deployed on **Vercel** for seamless accessibility
 
-[Explore repository](https://github.com/AnanyaSingh2305/NewsScopeAi)
+`React` `Vite` `FastAPI` `TensorFlow` `Keras` `Firebase` `Node.js` `Express.js` `MongoDB` `PWA`
+
+---
+
+### 📰 [NewsScopeAI](https://github.com/AnanyaSingh2305/NewsScopeAi)
+
+**AI-Powered News Intelligence Platform**
+
+An AI-driven news analysis platform that helps users understand news through intelligent summarization, credibility assessment, political bias detection, and multilingual accessibility.
+
+- AI-powered news analysis integrating **fake news detection, bias analysis, summarization, and translation**
+- Transformer-based summarization generating article digests in under **30 seconds**
+- Reduced reading time by **70%** while retaining critical information
+- ML-powered credibility scoring and political bias classification
+- Real-time trust metrics with **left/center/right political bias analysis**
+- **6+ accessibility features**, including speech-to-text, text-to-speech, subtitles, multilingual voice output, and voice commands
+
+`React` `Vite` `Flask` `Python` `Hugging Face` `Transformers` `OpenAI API` `gTTS` `ElevenLabs`
+
+---
 
 ## Recognition
 
@@ -100,12 +114,20 @@ NewsScopeAI is an AI-powered news analysis application designed to simplify news
 
 </div>
 
-## Let's Connect
 
-I'm interested in learning from engineering teams, contributing to meaningful projects, and growing as a software developer.
+## 💼 What I'm Looking For
 
-📌 **GitHub:** [github.com/AnanyaSingh2305](https://github.com/AnanyaSingh2305)
+<div align="center">
 
----
+I'm actively seeking **Software Engineering, Full-Stack Development & AI/ML internship opportunities** — where I can contribute to real-world products, build scalable applications, and apply AI/ML to solve meaningful problems.
+
+<br><br>
+
+📬 <a href="mailto:ananyasingh5900@gmail.com">Email</a> ·
+<a href="https://www.linkedin.com/in/ananya-singh-8934b4294/">LinkedIn</a> ·
+<a href="https://github.com/AnanyaSingh2305">GitHub</a>
+
+</div>
+
 
 <div align="center"><i>Learning, building, and improving — one project at a time.</i></div>
