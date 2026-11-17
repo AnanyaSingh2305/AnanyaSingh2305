@@ -40,6 +40,11 @@ I'm an Information Science Engineering student interested in software engineerin
 - 🏆 Part of **Krishi AI**, recognized with the **ISE Department Major Project Award**
 - 🌱 Continuing to strengthen my problem-solving, programming, and software engineering skills
 - 🤝 Interested in **software engineering internships and entry-level opportunities**
+  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2" width="100%" alt="Sky Blue Divider" />
+
+
 
 ## ⚙️ Tech Stack
 
@@ -61,9 +66,12 @@ I'm an Information Science Engineering student interested in software engineerin
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2" width="100%" alt="Sky Blue Divider" />
+
+
 ## 💡 Featured Projects
 
----
+
 
 ### 🌾 Krishi AI
 
@@ -98,11 +106,17 @@ An AI-driven news analysis platform that helps users understand news through int
 
 `React` `Vite` `Flask` `Python` `Hugging Face` `Transformers` `OpenAI API` `gTTS` `ElevenLabs`
 
----
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2" width="100%" alt="Sky Blue Divider" />
+
 
 ## Recognition
 
 🏆 **ISE Department Major Project Award** — Krishi AI
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2" width="100%" alt="Sky Blue Divider" />
+
 
 ## GitHub Activity
 
@@ -113,6 +127,11 @@ An AI-driven news analysis platform that helps users understand news through int
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaSingh2305&layout=compact&hide_border=true)
 
 </div>
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2" width="100%" alt="Sky Blue Divider" />
+
 
 
 ## 💼 What I'm Looking For
@@ -128,6 +147,9 @@ I'm actively seeking **Software Engineering, Full-Stack Development & AI/ML inte
 <a href="https://github.com/AnanyaSingh2305">GitHub</a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2" width="100%" alt="Sky Blue Divider" />
+
 
 
 <div align="center"><i>Learning, building, and improving — one project at a time.</i></div>
