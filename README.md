@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="banner.png" alt="Ananya Singh - Aspiring Software Engineer" width="100%" />
+
+<img src="banner.svg" alt="Ananya Singh - Software Engineer" width="100%" />
+
 
 <br>
 
