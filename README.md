@@ -1,9 +1,10 @@
 
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I%27m+Ananya+Singh" alt="Hi, I'm Ananya Singh" />
+<img src="banner.png" alt="Ananya Singh - Aspiring Software Engineer" width="100%" />
 
-<h3>Information Science Engineering Student | Aspiring Software Engineer</h3>
+<br>
 
 <p><b>Building practical applications across AI, data, and web development.</b></p>
 
@@ -14,6 +15,7 @@
 <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Internships-2563EB?style=flat-square" alt="Open to Software Engineering Internships" />
 
 </div>
+
 
 
 ## About Me
